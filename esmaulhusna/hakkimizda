@@ -1,1 +1,141 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hakkında – Allah’ın 99 İsmi (Esmaül Hüsna)</title>
+
+<style>
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background:#f3f7f6;
+  margin:0;
+  padding:0;
+  color:#333;
+}
+
+.container{
+  max-width:900px;
+  margin:auto;
+  padding:40px 20px;
+  background:white;
+}
+
+h1{
+  color:#2e7d32;
+}
+
+h2{
+  color:#2e7d32;
+  margin-top:30px;
+}
+
+p{
+  line-height:1.6;
+}
+
+ul{
+  line-height:1.8;
+}
+
+.footer{
+  margin-top:40px;
+  padding-top:20px;
+  border-top:1px solid #ddd;
+  font-size:14px;
+}
+
+.links a{
+  margin-right:15px;
+  text-decoration:none;
+  color:#2e7d32;
+  font-weight:bold;
+}
+
+.links a:hover{
+  text-decoration:underline;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Allah’ın 99 İsmi Uygulaması Hakkında</h1>
+
+<p>
+<strong>Allah’ın 99 İsmi (Esmaül Hüsna)</strong> uygulaması, kullanıcıların
+Allah’ın güzel isimlerini öğrenmesine, anlamasına ve üzerinde tefekkür
+etmesine yardımcı olmak amacıyla geliştirilmiştir. Her bir isim,
+Allah’ın ilahi sıfatlarından birini temsil eder ve İslam geleneğinde
+derin bir manevi anlam taşır.
+</p>
+
+<p>
+Bu uygulama, Arapça metin, okunuş (transliterasyon), anlamlar ve
+sesli telaffuz gibi özelliklerle birlikte Allah’ın 99 İsmini
+keşfetmek için kolay ve modern bir deneyim sunar. Böylece dünyanın
+farklı yerlerindeki kullanıcılar için öğrenme süreci daha erişilebilir
+hale gelir.
+</p>
+
+<h2>Uygulama Özellikleri</h2>
+
+<ul>
+<li>Allah’ın 99 İsminin tamamı</li>
+<li>Doğru transliterasyon ile Arapça metin</li>
+<li>İngilizce ve Türkçe anlamlar ve açıklamalar</li>
+<li>Her isim için sesli telaffuz</li>
+<li>Basit ve kullanıcı dostu arayüz</li>
+</ul>
+
+<h2>Uygulamanın Amacı</h2>
+
+<p>
+Bu uygulamanın amacı eğitimsel ve manevidir. Kullanıcıların
+Allah’ın isimlerini ve sıfatlarını öğrenmelerine, hatırlamalarına
+ve bu isimler üzerinde düşünmelerine yardımcı olmak için
+tasarlanmıştır. Aynı zamanda bireysel öğrenmeyi ve manevi
+gelişimi desteklemeyi hedefler.
+</p>
+
+<h2>Geliştirici Bilgileri</h2>
+
+<p>
+Bu uygulama, <strong>Mutlu Akgün</strong> tarafından kurulan
+ANM Consultancy ekosisteminin bir parçası olan
+<strong>ANM Digital Labs</strong> tarafından geliştirilmekte
+ve sürdürülmektedir.
+</p>
+
+<p>
+ANM Digital Labs, küresel kullanıcılar için dijital uygulamalar,
+eğitim araçları ve ölçeklenebilir yazılım sistemleri geliştiren
+bir teknoloji girişimidir.
+</p>
+
+<div class="footer">
+
+<div class="links">
+<a href="about.html">Hakkında</a>
+<a href="privacy.html">Gizlilik Politikası</a>
+<a href="terms.html">Kullanım Şartları</a>
+<a href="disclaimer.html">Sorumluluk Reddi</a>
+</div>
+
+<br>
+
+© 2026 ANM Digital Labs
+
+</div>
+
+</div>
+
+</body>
+</html>
